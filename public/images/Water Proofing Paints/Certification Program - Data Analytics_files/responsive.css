@@ -1,0 +1,1237 @@
+.newgificon
+{
+	margin: 0px 0px -60px -80px;
+	width: 80px !important;
+}
+.studentsbannertext
+{
+    margin: 0px 0px 0px -20px;
+}
+.dropdown-menu
+{
+    min-width: 25rem;
+padding: 0.1rem 0;
+}
+.applynows_btn {
+    background: #5b5b5b;
+    width: auto;
+    padding: 10px 40px;
+    display: block;
+    position: fixed;
+    top: 40%;
+    left: auto;
+    transform: rotate(-90deg);
+    right: -65px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 16px;
+    border-left: 4px solid #5b5b5b;
+    border-right: 4px solid #5b5b5b;
+    z-index: 1000;
+}
+.applynows_btn a,.applynows_btn a:hover
+{
+	color: #fff;
+	text-decoration: none;
+}
+.enquire_btn a
+{
+	color: #fff !important;
+}
+.faqsection .accordion>.electivecourse>.card button.btn.btn-link
+{
+	color: #000;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    position: relative;
+    padding: 0px 50px 0px 0px;
+    width: 100%;
+    text-align: left;
+}
+.electivecourse h1
+{
+	font-size: 18px;
+    color: #ee2c3c;
+    font-weight: 500;
+    padding: 30px 0px;
+    border-bottom: 0px;
+}
+@media (min-width: 1601px) and (max-width: 3000px)
+{
+.testimonial_quotes
+{
+	width: auto;
+}
+
+}
+@media (min-width: 1600px) and (max-width: 1600px)
+{
+
+}
+
+@media (min-width: 1400px) and (max-width: 1560px)
+{
+
+}
+
+@media (min-width: 1200px) and (max-width: 1330px)
+{
+
+.maincontainer
+{
+	width: 85%;
+}
+.courses_box_content h1
+{
+	font-size: 20px;
+}
+.logobanner
+{
+	right: 0px;
+}
+.homeaccordingsec
+{
+	width: 90%;
+}
+.maincontainertwo
+{
+	width: 95%;
+}
+.upskill_right h2
+{
+	font-size: 17px;
+}
+.course_skill_gain_sec.fullstack ul>li {
+    height: 210px;
+}
+.contactus_content
+{
+	padding: 0px;
+}
+.topbannertext h1 
+{
+	font-size: 28px;
+}
+.testimonial_quotes
+{
+	width: 230px;
+}
+.testimonials_content_sec p
+{
+	height: 320px;
+}
+}
+
+
+@media (min-width: 993px) and (max-width: 1199px)
+{
+.headercontainer
+{
+width: 100%;
+padding: 20px 10px;
+}
+.headercontainer .navbar-nav .nav-link
+{
+	padding: 5px 10px;
+}
+.maincontainer
+{
+	width: 95%;
+}
+.fullcontainer
+{
+	width: 100%;
+}
+.logobanner
+{
+	right: 0px;
+}
+.homeaccordingsec
+{
+	width: 100%;
+}
+.footersection
+{
+	padding: 50px 10px;
+}
+.slick-next
+{
+	right: 0px;
+}
+.slick-prev
+{
+	left: 0px;
+}
+.linetopone
+{
+	left: 22%;
+}
+.flexright
+{
+	width: 60%;
+}
+.flexright h2
+{
+	font-size: 18px;
+}
+.price_details h3
+{
+	font-size: 17px;
+}
+.admission_date p
+{
+	font-size: 12px;
+}
+.bannergirlsec.courseimg {
+    width: 100%;
+}
+.course_skill_gain_sec ul>li
+{
+	width: 45%;
+}
+.maincontainertwo
+{
+	width: 95%;
+}
+.course_skill_gain_sec.fullstack ul>li {
+    height: 240px;
+}
+.contactus_content
+{
+	padding: 0px;
+}
+.headercontainer .navbar-nav .nav-link
+{
+	font-size: 13px;
+}
+.topbannertext h1 
+{
+	font-size: 28px;
+}
+.course_skill_gain_sec ul>li
+{
+	height: 250px;font-size: 15px;
+}
+.testimonial_quotes
+{
+	width: 200px;
+}
+.testimonials_content_sec p
+{
+	height: 350px;
+}
+}
+
+
+@media (min-width: 768px) and (max-width: 992px)
+{
+.headercontainer
+{
+	width: 98%;
+}
+a.navbar-brand img
+{
+	width: 120px;
+}
+.slick-next
+{
+	right: 0px;
+}
+.slick-prev
+{
+	left: 0px;
+}
+.headercontainer .navbar-nav .nav-link
+{
+	font-size: 10px;
+	padding: 10px 5px;
+}
+.maincontainer
+{
+	width: 98%;
+}
+.topbannertext
+{
+	padding: 0px 20px;
+}
+.topbannertext h1
+{
+	font-size: 25px;
+}
+.trianglebox img {
+    width: 80px;
+    position: relative;
+    left: -81px;
+}
+.logobanner img
+{
+	display: none;
+}
+.fullcontainer
+{
+	width: 100%;
+}
+.flexbox {
+    display: block;
+}
+.flexright {
+    text-align: left;
+    padding: 10px 0px;
+}
+.flexleft
+{
+	width: 40%;
+}
+.courses_box_content h1
+{
+	font-size: 16px;
+}
+.linetop, .linetopone, .linebtm
+{
+	display: none;
+}
+.campus-list-sec ul li {
+    list-style: none;
+    width: 31%;
+    padding: 10px 10px;
+    }
+.intro span
+{
+	display: inline;
+}
+.placement_list ul li p
+{
+	width: 100%;
+}
+.homeaccordingsec
+{
+	width: 100%;
+}
+.news_section {
+    width: 80%;
+    position: relative;
+    padding: 50px 0px;
+    margin: auto;
+    display: block;
+}
+.news_content_sec
+{
+	height: auto;
+}
+.news_content_sec img
+{
+	position: relative;
+	bottom: 0px;
+}
+.maincontainertwo
+{
+	width: 96%;
+}
+.bannergirlsec.courseimg {
+    width: 100%;
+}
+.course_skill_gain_sec.fullstack  ul>li
+{
+	height: auto;
+}
+.course_skill_gain_sec.fullstack ul>li {
+    height: auto;
+    width: 100%;
+}
+.course_skill_gain_sec ul>li
+{
+	width: 100%;
+}
+.number
+{
+	left: 34%;
+}
+.contactus_content
+{
+	padding: 20px;
+}
+.aboutlogo
+{
+	bottom: 20px;
+}
+.lpcontainer
+{
+	width: 100%;
+	padding: 0px 20px;
+}
+.new_lp_about_list ul li,.placement_list ul li
+{width: 49%;}
+
+.testimonial_quotes
+{
+	width: 130px;
+}
+}
+
+
+
+
+@media (max-width: 767px)
+{
+.headercontainer,.faqsection,.maincontainer,.fullcontainer
+{
+	width: 100%;
+}
+
+.applynow,.footerstickybtn
+{
+	display: none;
+}
+button.navbar-toggler
+{
+	border-color: transparent;
+}
+.icon-bar {
+       display: block;
+    width: 30px;
+    height: 3px;
+    border-radius: 1px;
+    background: #000;
+    margin: 6px 0px 0px 0px;
+}
+.headercontainer {
+   margin: auto;
+    padding: 2px 5px;
+    position: fixed;
+    top: 0px;
+    background: #fff;
+    width: 100%;
+    z-index: 10000000;
+}
+a.navbar-brand img
+{
+	width: 120px;
+}
+body
+{
+	padding:70px 0px 0px 0px;
+}
+.headercontainer ul.navbar-nav
+{
+	padding: 0px;
+	margin: 0px;
+	background: #fff;
+	width: 100%;
+	height: 100vh;
+}
+.headercontainer .navbar-nav .nav-link
+{
+	padding: 20px 20px;
+	text-align: center;
+}
+.headercontainer .navbar-nav .bookbtn .nav-link
+{
+	padding: 10px 10px;
+	margin: 20px 0px;
+}
+.mobilehidden
+{
+	display: none;
+}
+.topbannertext
+{
+	padding: 20px 20px;
+	position: relative;
+}
+.topbannertext h1
+{
+	font-size: 25px;
+}
+.topbannertext h1 span, .topbannertext p span
+{
+	display: inline;
+	padding-left: 5px;
+}
+.topbannertext h3
+{
+	font-size: 16px;
+}
+.mobilebanner
+{
+	display: block;
+	padding: 0px 20px;
+}
+.mobilered
+{
+	display: none;
+    width: 100%;
+    margin: 20px 0px;
+}
+.mobilered img
+{
+	text-align: right;
+	width: 60px;float: right;
+}
+.topbannertext p
+{
+	font-size: 16px;
+	padding: 0px 0px 30px 0px;
+}
+.topbannertext h3
+{
+	padding: 5px 10px;
+	width: 100%;
+	text-align: center;
+}
+.hometestimonials,.homesectiontwo,.homesectionthree,.homesectionfour,.homesectionfive,.homesectionsix,.homefaqsection,.homenewsection
+{
+	padding:30px 0px;
+}
+.testimonials_left,.testimonials_right
+{
+	width: 100%;
+}
+.testimonials_sec
+{
+	display: block;
+}
+.testimonials_right
+{
+	padding: 20px 0px;
+}
+.homeheading h1
+{
+	font-size: 25px;
+	line-height: 30px;
+}
+.number
+{
+	text-align: center;
+}
+.homeaccordingsec a.carousel-control-prev {
+    left: 24%;
+    top:94%;
+}
+.homeaccordingsec a.carousel-control-next {
+    right: 25%;
+    top:94%;
+}
+.homeaccordingsec
+{
+	width: 100%;
+	padding: 20px 20px;
+}
+.course_list_sec ul li
+{
+	width: auto;
+	padding: 0px 0px;
+}
+.flexbox
+{
+	display: block;
+}
+.flexleft {
+    width: 40%;
+}
+.flexright {
+    text-align: left;
+    padding: 10px 0px 20px 0px;
+}
+.course_list_sec .slick-track .slick-slide
+{
+	display: block;
+	padding: 0px 20px;
+}
+.course_list_sec
+{
+	padding: 20px 0px;
+}
+.flexright h4
+{
+	font-size: 16px;
+}
+.slick-dots li button
+{
+	width: 30px;
+	height: 30px;
+}
+.slick-dots li button:before
+{
+	font-size: 15px;
+}
+.slick-dots li.slick-active button:before
+{
+	color: #ee2c3c;
+	opacity: 1;
+}
+.slick-dots li
+{
+	padding: 0px;
+}
+.homeheading h1 span
+{
+	display: inline;
+	padding-left: 5px;
+}
+section.homesectionthree
+{
+	padding: 20px;
+}
+.reason_sec_cont {
+    padding: 30px 0px 0px 0px;
+}
+.upskill_right
+{
+	width: 100%;
+	padding: 0px 10px;
+}
+.upskill_right h2
+{
+	font-size: 16px;
+}
+section.homesectionfive
+{
+	padding: 20px 20px;
+}
+.intro span
+{
+	display: inline;
+}
+.linetop,.linetopone,.linebtm
+{
+	display: none;
+}
+.campus-list-sec ul li
+{
+	width: 49%;
+	padding: 10px 10px;
+}
+.faqsection
+{
+	padding: 0px 20px;
+}
+.placement_sec {
+    padding: 20px;
+}
+.placement_list ul li p
+{
+	width: 100%;
+	font-size: 15px;
+}
+.placement_list
+{
+	padding: 20px 0px;
+}
+.news_content_sec
+{
+	width: 80%;margin: auto;height: auto;
+	padding: 20px 20px 40px 20px;
+}
+.news_content_sec img
+{
+	position: relative;
+	bottom:auto;
+}
+.slick-dots
+{
+	bottom: -20px;
+}
+.footersection
+{
+	padding: 20px 20px 80px 20px;
+}
+.footer_links {
+    padding: 15px 0px;
+    border-top: 1px solid #ccc;
+}
+.footer_logo
+{
+	width: 130px;
+}
+.social_icons
+{
+	padding: 20px 0px;
+}
+.faqsection .accordion>.card button.btn.btn-link
+{
+	font-size: 15px;
+}
+.placement_pic
+{
+	padding: 0px 20px;
+}
+.navbar-toggler
+{
+	padding: 0px;
+}
+.learn_btn
+{
+	width: 100%;
+}
+.courses_full_box
+{
+	margin: 20px auto;
+	width: 90%;
+}
+.placement_list ul li
+{
+	width: 49%;
+}
+.placement_list ul 
+{
+	text-align: center;
+}
+.mobileshow
+{
+	display: block;margin: auto;
+}
+.course_list_sec
+{
+	padding: 20px 5px;
+}
+.flexleft {
+    width: 38%;margin: auto;display: block;
+}
+.flexleft  img
+{
+	margin: auto;
+}
+.flexright,.flexright h4
+{
+	text-align: center;
+
+}
+.course_list_sec ul li
+{
+	padding: 10px 10px;
+	width: 48%;
+}
+.admission_date
+{
+	padding: 0px 0px 10px 0px;
+}
+.admission_date:before
+{
+	display: none;
+}
+.trianglebtm
+{
+	display: none;
+}
+.bannergirlsec.courseimg
+{
+	width: 100%;
+	padding: 0px 20px;
+	margin: auto;
+}
+.topbannertext.courseheadcontent .price_details h3, .topbannertext.courseheadcontent .price_details h4
+{
+	display: inline-block;
+    text-align: left;
+    width: auto;
+}
+section.homesectiontwo.course_section .flexleft
+{
+	width: 50%;
+}
+.upskill_right h4
+{
+	font-size: 15px;
+}
+.course_skill_gain_sec ul>li
+{
+	    width: 100%;
+    margin: 20px auto;
+    display: block;
+    padding: 0px 10px;
+}
+.companies_list_Sec ul li
+{
+	width: 48%;
+margin: 10px auto
+}
+.course_company_list_sec
+{
+	padding: 20px 0px;
+}
+.courses_form_sec
+{
+	padding: 20px 10px;
+}
+.form-control.courseform,button.btn.btnsubmit
+{
+	width: 100%;
+}
+.about_program_sec
+{
+	margin: 20px auto;
+	width: 90%;
+}
+.curriculum_list ul li span
+{
+	float: none;
+	display: block;
+	text-align: left;
+}
+.down_brochure_btn
+{
+	padding: 5px 10px;
+	width: 100%;
+	display: block;
+	text-align: center;
+}
+.package_text p
+{
+	border-right: 0px;
+}
+.placement_offers
+{
+	padding: 10px 0px;
+}
+.tutors_details_sec ul li
+{
+	width: 100%;
+	margin: auto;
+	display: block;
+}
+.course_top_head
+{
+	padding: 20px 20px;
+}
+.maincontainertwo
+{
+	width: 100%;
+}
+.courses_enquiry_sec
+{
+	padding: 20px 20px;
+}
+.course_intro p
+{
+	height: auto;
+}
+.course_skill_gain_sec.fullstack  ul>li
+{
+	height: auto;
+}
+.course_skill_gain_sec
+{
+	padding: 20px 20px;
+}
+.number
+{
+	left: 0px;right: 0px;margin: auto;display: block;text-align: center;
+	top:95%;
+}
+.consultant_form_section
+{
+	width: 100%;
+	padding: 20px;
+}
+.learning-consultant-section
+{
+	padding: 30px 20px;
+}
+.contact-section
+{
+	background: #fff;
+	width: 100%;
+}
+.contactus_content
+{
+	background: #f2f2f2;
+	width: 100%;
+	padding: 20px 10px;
+}
+.contact_form_sec
+{
+	padding: 20px;
+}
+.applynow {
+    display: block;
+    position: fixed;
+    bottom: 0px;
+    transform: none;
+    right: 0px;
+    top: auto;
+    bottom: 0px;
+    width: 100%;
+    z-index: 1000;
+    text-align: center;
+}
+.career_support_section
+{
+	padding: 20px;
+}
+.career_inner_sec
+{
+	padding: 30px 15px;
+}
+.careers_event_sec ul li
+{
+	width: 48%;margin: 10px auto;
+}
+.careers_event_sec ul
+{
+	text-align: center;
+}
+.career_acc
+{
+	padding:20px 0px 0px 0px;
+}
+.career_box_full
+{
+	padding: 20px 0px;
+}
+.careers_offer_sec
+{
+	padding: 20px 20px;
+}
+.careers_offers_text
+{
+	padding: 0px;
+}
+.courses-remaining-section .contactus_content
+{
+	background: transparent;
+}
+.career_support_section ul li a, .career_support_section ul li a:hover
+{
+	padding: 10px 5px;
+}
+.career_support_section ul
+{
+	margin: 40px 0px 0px 0px;
+}
+.applynow
+{
+	text-transform: uppercase;
+	padding: 10px 0px;
+}
+section.homesectionone.careers-support
+{
+	padding: 20px 0px;
+}
+.career_support_section ul li
+{
+	width: 46%;
+	margin: 10px 3px;
+	height: 55px;
+	padding: 0px 5px;
+	vertical-align: text-top;
+}
+.career_support_section ul li a
+{
+	padding: 5px;
+}
+.career_support_section ul li
+{
+	font-size: 12px;
+}
+.footer_links h3
+{
+	padding:0px;
+}
+.companies_list_Sec
+{
+	padding:30px 0px;
+}
+.date_sec
+{
+	padding: 0px 10px;
+}
+.learn_more_btn a, .learn_more_btn a:hover
+{
+	padding: 7px 0px;
+}
+.learn_more_btn
+{
+	width:100%;
+}
+.contactus_content h3 a img
+{
+	width: 40px;
+	padding-right: 5px;
+}
+.contactus_content h3 a, .contactus_content h3 a:hover
+{
+	font-size: 14px;
+}
+.platform_logo_list ul li
+{
+	width: 100%;
+}
+section.footersection.courses
+{
+	padding: 10px 0px 50px 0px;
+}
+.footersection.courses .social_icons ul li
+{
+	padding: 0px 10px;
+}
+.footer_links.footer_links_btm h3
+{
+	width: 100%;
+	display: block;
+	padding: 8px 0px;
+}
+.applynow
+{
+	background:#ee2c3c;
+	border-left: 4px solid #ee2c3c;
+    border-right: 4px solid #ee2c3c;
+}
+.footer_call_btn
+{
+	display: none;
+}
+.course_skill_gain_sec ul>li
+{
+	height: auto;
+}
+.footerstickybtn
+{
+	display: none;
+	right: 5px;
+	bottom: 85px;
+}
+.footerstickybtn ul li img
+{
+	width: 40px;
+}
+.contact-section
+{
+	padding: 20px 0px;
+	margin: 0px;
+}
+.footer_links.footer_links_btm.courses
+{
+	float: none;border:0px;
+	padding: 0px 0px 20px 0px;
+}
+.footer_links.footer_links_btm.courses h3
+{
+width: 100%;
+text-align: center;
+display: block;
+padding: 10px 10px;
+}
+section.footersection.courses .social_icons ul
+{
+	text-align: center;
+}
+.course_list_sec.home ul li {
+    width: 48%;
+}
+.about_value_unit ul li
+{
+	width: 100%;
+	padding: 10px 10px;
+}
+.aboutlogoone,.aboutlogo
+{
+	display: none;
+}
+.about_value_unit
+{
+	padding: 20px 0px;
+}
+.about_us_section_three
+{
+	padding: 30px 0px 20px 0px;
+}
+.career_img_right.aboutus {
+    padding: 20px;
+}
+section.course_company_list_sec.greybg
+{
+	padding: 30px 0px 30px 0px;
+}
+.blog_post_content_section
+{
+	padding:30px 10px;
+}
+.blog_tile_box
+{
+	width: 100%;
+	margin: 10px 0px;
+}
+.blog_single_content
+{
+	padding: 20px 10px;
+}
+.relateds_post
+{
+	padding: 20px 10px;
+}
+.related_tile_content
+{
+	padding: 10px 0px 0px 0px;
+}
+.blog_tile_content
+{
+	height: auto;
+}
+.comment_form_section
+{
+	padding: 0px 20px;
+}
+.cybermonthimg
+{
+	width: 100%;
+	margin: 0px 0px 20px 0px;
+}
+.newgificon
+{
+	margin: 0px;
+}
+.homesectionone
+{
+	padding: 0px;
+}
+.studentsbannertext
+{
+     margin: 0px 0px;
+}
+.topbannertext
+{
+	padding: 10px 20px;
+}
+.top_banner_layer_one
+{
+	width: 80%;
+	top: 0px;
+}
+.top_banner_layer_two,.top_banner_layer_three,.top_banner_layer_four,.top_banner_layer_one,.top_layer_icons
+{
+	display: none;
+}
+.topbannertext.courseheadcontent.newlp
+{
+	padding:20px;
+}
+.aboutnewprice
+{
+	width: 100%;text-align: center;
+	padding:10px;
+}
+.aboutnewprice div
+{
+	width: 100%;
+}
+.new_lp_about_list ul li
+{
+	width: 100%;
+}
+.placement_about_new .intro
+{
+	width: 100%;
+}
+.placement_list.new_lp_placement_lis ul li
+{
+	width: 100%;
+}
+.lpcontainer
+{
+	width: 100%;
+}
+.li_left
+{
+	width: 18%;
+}
+.li_right
+{
+	width: 77%;
+}
+.aboutnewprice
+{
+	width: 96%;
+	margin: 20px auto;
+	display: block;
+}
+.top_layer_icons {
+    display: block;
+    position: absolute;
+    top: -23px;
+    bottom: auto;
+    left: -1px;
+    opacity: .3;
+}
+.top_banner_layer_three {
+    display: block;
+    position: absolute;
+    top: 50px;
+    bottom: auto;
+    right: -37%;
+    overflow: hidden;
+}
+section.homesectionone {
+       overflow-x: hidden;
+}
+.top_banner_layer_four {
+    display: block;
+    top: 44%;
+}
+.courses_tab .tab-content
+{
+	padding: 0px 10px;
+}
+.new_lp_about_us_section
+{
+	padding: 0px 20px;
+}
+.applynows_btn
+{
+	background-color: #ee2c3c;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	right: 0px;
+	left: 0px;
+	top: auto;
+	height: auto;
+	transform:none;
+	text-align: center;
+	border:0px;
+text-transform: uppercase;
+}
+.live_mentor_content.close_dates.placement_txt
+{
+	margin: 10px 0px;
+}
+span.emioptionstext
+{
+	display: block;
+	padding:0px;
+}
+}
+
+
+/* Top Header content*/
+
+/*.top_header {
+    background: #ee2c3c;
+    padding: 10px 0px;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    position: relative;
+    top: 0px;
+    z-index: 100000;
+}
+
+@media (max-width: 767px)
+{
+	.top_header
+	{
+		position: fixed;
+		top: 0px;
+		padding: 5px 0px;
+		font-size: 13px;
+	}
+	.headercontainer
+	{
+		top:48px;
+	}
+	body
+	{
+		padding: 120px 0px 0px 0px;
+	}
+}*/

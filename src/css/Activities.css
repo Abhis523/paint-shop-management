@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* font-family: 'Josefin Sans',sans-serif; */
+    box-sizing: border-box;
+}
+
+.xyz{
+    color: black;
+    font-weight: bolder;
+}
+
+
+h2{
+   
+    color: black ;
+    font-size: xxx-large;
+}
+
+h1{
+    text-align: center;
+    /* font-family: 'Alex Brush', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Old Standard TT', serif; */
+color: black ;
+font-size: 39px;
+text-shadow: 25px;
+}
+
+p{
+    text-justify: auto;
+    text-align: center;
+    padding: 5%;
+    font-size: 15px;
+    
+}
+
+
+
+
+
+
+.Adventure   .wrapper{
+      width: 100%;
+      
+  }
+
+.Adventure  .wrapper img{
+      width: 100%;
+  }
+
+.Adventure  .text-wrapper{
+      width: 100%;
+      position: relative;
+      margin-top: -12%;
+  }
+  
+.Adventure   .text-wrapper h1{
+      text-align: center;
+      color: #ffff;
+      font-size: 10vw;
+     
+  }
+
+
+
+
+
+
+
+
+
+

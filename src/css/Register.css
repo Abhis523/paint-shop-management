@@ -1,0 +1,47 @@
+.img-fluid image {
+    padding-left: 500px;
+}
+
+.ads {
+    padding-top: 50px;
+}
+
+.login-container {
+    margin-top: 10%;
+    border: 1px solid #CCD1D1;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    max-width: 50%;
+}
+
+@keyframes mymove {
+    from {
+        border: 1px solid #F2F3F4;
+    }
+
+    to {
+        border: 8px solid #F2F3F4;
+    }
+}
+
+.login-form {
+    padding: 5px;
+}
+
+.login-form h3 {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.form-control {
+    font-size: 14px;
+}
+
+.select {
+    height: 150% !important;
+}
+
+body {
+    padding-bottom: 250px;
+}

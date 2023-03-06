@@ -1,0 +1,236 @@
+.carousel .item {
+    height: 300px;
+}
+
+.slogan {
+    color: whitesmoke;
+    font-size: 55px;
+}
+
+.desription {
+    color: whitesmoke;
+    font-weight: 500;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+.Heder {
+    text-align: center;
+    font-size: xxx-large;
+    color: black;
+    font-weight: bold;
+}
+
+
+
+h4 {
+    color: antiquewhite;
+}
+
+.Home .products .box-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    gap: 1.5rem;
+}
+
+.Home .products .box-container .box {
+    text-align: center;
+    border: var(--border);
+    padding: 2rem;
+    background-color: rgb(182, 182, 182);
+    border-radius: 6%;
+
+
+}
+
+.Home .products .box-container .box .icons a {
+    height: 5rem;
+    width: 5rem;
+    line-height: 5rem;
+    font-size: 2rem;
+    border: var(--border);
+    color: #fff;
+    margin: .3rem;
+}
+
+.Home .products .box-container .box .icons a:hover {
+    background: gray;
+}
+
+.Home .products .box-container .box .image {
+    padding: 2.5rem 0;
+    border-radius: 6%;
+
+
+}
+
+.Home .products .box-container .box .image img {
+    border-radius: 6%;
+    height: 25rem;
+
+}
+
+.Home .products .box-container .box .content h3 {
+    color: #000000;
+    font-size: 2.5rem;
+}
+
+.Home .products .box-container .box .content .stars {
+    padding: 1.5rem;
+}
+
+.Home .products .box-container .box .content .stars i {
+    font-size: 1.7rem;
+    color: white;
+}
+
+.Home .products .box-container .box .content .price {
+    color: #fff;
+    font-size: 2.5rem;
+}
+
+.Home .products .box-container .box .content .price span {
+    text-decoration: line-through;
+    font-weight: lighter;
+    font-size: 1.5rem;
+}
+
+
+.Home .services {
+    background: #eee;
+}
+
+.Home .services .box-container {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: (minmax(31rem, 1fr))[auto-fit];
+    grid-template-columns: repeat(auto-fit, minmax(31rem, 1fr));
+    gap: 1.5rem;
+}
+
+.Home .services .box-container .box {
+    text-align: center;
+    padding: 2rem;
+    border: 0.2rem solid #10221b;
+    border-radius: .5rem;
+    background: #fff;
+}
+
+.Home .services .box-container .box:hover {
+    background: #10221b;
+}
+
+.Home .services .box-container .box:hover img {
+    -webkit-filter: invert(1);
+    filter: invert(1);
+}
+
+.Home .services .box-container .box:hover p {
+    color: #fff;
+}
+
+.Home .services .box-container .box:hover .btn {
+    border-color: #fff;
+    color: #fff;
+}
+
+.Home .services .box-container .box:hover .btn:hover {
+    background: #fff;
+    color: #10221b;
+}
+
+.Home .services .box-container .box img {
+    height: 10rem;
+    margin-bottom: 1rem;
+}
+
+.Home .services .box-container .box h3 {
+    font-size: 2rem;
+    color: #219150;
+}
+
+.Home .services .box-container .box p {
+    font-size: 1.5rem;
+    color: #10221b;
+    padding: 1rem 0;
+    line-height: 2;
+}
+
+.Home .review .box-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    gap: 1.5rem;
+
+}
+
+.Home .review .box-container .box {
+    border: var(--border);
+    text-align: center;
+    padding: 3rem 2rem;
+    /* background: whitesmoke ;
+    border-radius: 20px; */
+}
+
+.Home .review .box-container .box p {
+    font-size: 1.5rem;
+    line-height: 1.8;
+    color: #ccc;
+    padding-top: 2rem;
+    text-align: justify;
+}
+
+.Home .review .box-container .box .user {
+    margin-right: 150px;
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.Home .review .box-container .box .user:hover {
+    transform: scale(1.5);
+}
+
+.Home .review .box-container .box h3 {
+    padding: 1rem 0;
+    font-size: 2rem;
+    color: darkslategrey;
+    text-align: left;
+}
+
+.Home .review .box-container .box .stars i {
+    font-size: 1.5rem;
+    color: var(--main-color);
+}
+
+.Home .patners .share img {
+    padding: 1rem 0;
+    line-height: 5rem;
+    font-size: 2rem;
+    color: #fff;
+    padding: 1rem 0;
+    height: 14rem;
+    margin-left: 8%;
+
+}
+
+.description {
+    color: #10221b;
+    font: 200;
+    font-size: medium;
+}
+
+.head {
+    color: darkslategray !important;
+    /* font-weight: 600; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-default{
+    border: solid black .2rem;
+}

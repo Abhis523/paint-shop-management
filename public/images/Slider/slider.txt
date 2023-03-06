@@ -1,0 +1,22 @@
+<h2>Ap Beautiful Homes Stores</h2>
+                            <h1>One Step For All Your Decor Needs</h1>
+
+slider 1
+
+
+
+<h2>Reinvent Digital Experience with</h2>
+                            <h1>Our Digital and Intelligent Solutions</h1>
+                            <h4>We help you to paint your dreams</h4>
+
+
+slider 2
+
+
+
+ <h2>Reinvent Client Experience with</h2>
+                            <h1>Our Paint Consultansy and Expert Software Solutions</h1>
+                            <h4>Where quality meets affordability</h4>
+
+
+slider 3

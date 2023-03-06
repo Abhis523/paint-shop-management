@@ -1,0 +1,559 @@
+section.master_class_banner_one
+{
+	background: #f4f4f4;
+	width: 100%;
+	height: auto;
+	padding: 20px 0px;
+	position: relative;
+}
+.master_class_lp_content h1
+{
+	font-size: 28px;
+	color: #ee2c3c;
+	font-weight: 700;
+	padding: 0px 0px 10px 0px;
+}
+.master_class_lp_content h1 span
+{
+	display: block;
+}
+.master_class_lp_content p
+{
+	font-size: 17px;
+	color: #000000;
+	font-weight: 500;
+}
+.master_person_details
+{
+	padding: 35px 0px 35px 0px;
+}
+.master_person_details p
+{
+	font-size: 17px;
+	color: #000;
+}
+.master_person_details h2
+{
+	font-size: 20px;
+	color: #ee2c3c;
+	font-weight: 700;
+	padding: 0px 0px 5px 0px;
+}
+.master_person_details h4
+{
+	color: #ee2c3c;
+	font-weight: 500;
+	font-size: 18px;
+}
+.master_person_details .row
+{
+	align-items: center;
+}
+.master_person_details img
+{
+	padding: 0px 10px;
+	margin: auto;
+	display: block;
+}
+.master_quali_details p
+{
+	font-size: 14px;
+	color: #434343;
+}
+.date_details ul
+{
+	padding: 0px;
+	margin: 40px 0px;
+}
+.date_details ul li
+{
+	display: inline-block;
+	padding: 0px 20px 0px 0px;
+	list-style: none;
+	font-weight: 500;
+	font-size: 17px;
+	color: #ee2c3c;
+	position: relative;
+}
+.date_details ul li:after
+{
+	content: '';
+	position: absolute;
+	background: #f7cb17;
+	width: 2px;
+	height: 20px;
+	right: 7px;
+	top:2px;
+}
+.date_details ul li:nth-child(2):after
+{
+	display: none;
+}
+.date_details ul li img
+{
+	padding-right: 10px;
+	width: 25px;
+	vertical-align: middle;
+}
+.form-line {
+    float: right;
+    clear: both;
+}
+.form-line>img
+{
+	width: 100px;
+	position: relative;
+	right: -45px;
+}
+.master_class_lp_content
+{
+	padding:50px 30px 0px 30px;
+}
+.masterclass_form_section {
+    clear: both;
+    border: 1px solid #000;
+    padding: 20px;
+    margin: 10px 0px 30px 0px;
+    display: block;
+    position: relative;
+    top: 20px;
+    border-radius: 10px;
+    background-color: #e8e8e8;
+    z-index: 10;
+}
+.masterclass_form_section p
+{
+	color: #000;
+	font-weight: 500;
+	margin: 0px 0px 20px 0px;
+}
+.masterclass_form_section p.diclaimercontent
+{
+	margin-bottom: 0px;
+	color: #a7a7a7;
+}
+.masterclass_form_section .form-control.courseform
+{
+	width: 100%;
+	border: 1px solid #ccc;
+	padding: 0px 10px;
+}
+.masterclass_form_section button.btn.btnsubmit.fill
+{
+	width: 100%;
+	border-radius: 0px;
+	padding: 5px 10px;
+}
+.masterclass_section_two
+{
+	background: #fff;
+	width: 100%;
+	height: auto;
+	padding: 40px 0px;
+	position: relative;
+}
+.master_head h2
+{
+	text-align: center;
+	font-size: 25px;
+	color: #000;
+	font-weight: 500;
+	padding: 0px 0px 20px 0px;
+}
+.master_class_list
+{
+	padding: 0px;
+	margin: 30px 0px 0px 0px;
+	text-align: center;
+}
+.master_class_list li
+{
+	display: inline-block;
+	width: 24%;
+	padding: 0px 15px;
+	vertical-align: text-top;
+
+}
+.master_class_list li img
+{
+	margin: 0px auto 10px auto;
+	display: block;
+	width:80px;
+}
+.master_class_list li h4
+{
+	color: #ee2c3c;
+	font-size: 18px;
+	font-weight: 600;
+	padding: 0px 0px 10px 0px;
+}
+.master_class_list li p
+{
+	font-size: 14px;
+}
+.masterclass_section_three
+{
+	background:#f4f4f4;
+	width: 100%;
+	height: auto;
+	padding: 40px 0px;
+	position: relative;
+}
+.register_points ul
+{
+	padding: 0px;
+	margin: 0px;
+}
+.register_points ul li
+{
+	    list-style: none;
+    font-size: 16px;
+    padding: 5px 10px;
+    clear: both;
+    display: flex;
+    align-items: baseline;
+}
+.register_points ul li  span
+{
+	    width: 15px;
+    margin: 0px 10px 0px 0px;
+}
+.register_points ul li p {
+    width: 80%;
+    display: inline-flex;
+    font-size: 14px;
+}
+.girl_banner_img img
+{
+	max-width: 400px;
+	margin: -50px 0px 0px -100px;
+}
+.master_class_section_four
+{
+	background:#fff;
+	width: 100%;
+	height: auto;
+	position: relative;
+	margin: -200px 0px 0px 0px;
+	z-index: 100;
+	padding: 60px 0px;
+}
+.register_points
+{
+	padding: 50px 0px 0px 0px;
+}
+.masterclass_section_five
+{
+	background-color: #484848;
+	width: 100%;
+	height: auto;
+	padding: 50px 0px;
+	position: relative;
+	text-align: center;
+	color: #fff;
+}
+.master_upcoming
+{
+	width: 50%;
+	margin: auto;
+	display: block;
+}
+.master_upcoming h2
+{
+	font-size: 22px;
+	font-weight: 600;
+	padding: 0px 0px 10px 0px;
+}
+.master_upcoming p
+{
+	font-size: 14px;
+}
+.master_upcoming form
+{
+	margin: 30px 0px 0px 0px;
+}
+.master_upcoming button.btn.btnsubmit.fill
+{
+	margin: 0px auto;
+	width: 90%;
+	border-radius: 0px;
+	padding: 5px 0px;
+}
+.master_line_one {
+    position: absolute;
+    bottom: 30px;
+    left: -28px;
+}
+.master_line_one>img
+{
+	width: 100px;
+}
+.boxline {
+        position: absolute;
+    top: 30px;
+    left: -40px;
+}
+.boxline>img
+{
+	width: 80px;
+}
+.masterclass_form_section form
+{
+	position: relative;
+	z-index: 10;
+}
+.boxlineone {
+    position: absolute;
+    top: 240px;
+    left: -100px;
+}
+.boxlineone img
+{
+	width: 40px;
+}
+.boxlinetwo {
+   position: absolute;
+    bottom: 30px;
+    right: -70px;
+}
+.boxlinetwo>img
+{
+	width: 130px;
+}
+.box_top {
+    position: absolute;
+    top: 50px;
+    left: -90px;
+}
+.box_top>img
+{
+	width: 150px;
+}
+.yellowline {
+    position: absolute;
+    bottom: 120px;
+}
+.yellowline>img,.yellowlinetwo>img
+{
+	width: 90px;
+}
+.yellowlinetwo {
+    position: absolute;
+    right: 0px;
+    top: 80px;
+}
+.applynow.masterclass {
+    right: -55px;
+    background:#ee2c3c;
+    border: 0px;
+    z-index: 100000;
+}
+/* Media queries */
+
+@media (min-width: 1400px) and (max-width: 1560px)
+{
+
+}
+
+@media (min-width: 1200px) and (max-width: 1330px)
+{
+.boxlinetwo>img
+{
+	width: 100px;
+}
+.boxlinetwo
+{
+	right: -40px;
+}
+.form-line>img
+{
+	right: -20px;
+}
+}
+
+
+@media (min-width: 993px) and (max-width: 1199px)
+{
+.girl_banner_img img
+{
+	width: 350px;
+}
+.register_points {
+    padding: 0px 0px 0px 0px;
+}
+.boxlinetwo>img
+{
+	width: 100px;
+}
+.boxlinetwo
+{
+	right: -40px;
+}
+.form-line>img
+{
+	right: -20px;
+}
+}
+
+
+@media (min-width: 768px) and (max-width: 992px)
+{
+.girl_banner_img img
+{
+	width: 300px;
+}
+.master_head h2
+{
+	font-size: 22px;
+}
+.master_class_section_four
+{
+	margin: 0px;
+}
+.boxlinetwo {
+    position: absolute;
+    bottom: 120px;
+    right: -27px;
+}
+.form-line>img {
+    width: 68px;
+    position: relative;
+    right: -17px;
+}
+.box_top>img {
+    width: 120px;
+}
+.date_details ul li
+{
+	font-size: 15px;
+}
+.master_person_details p,.master_class_lp_content p
+{
+	font-size: 15px;
+}
+.register_points {
+    padding: 0px 0px 0px 0px;
+}
+.boxlinetwo>img {
+    width:90px;
+}
+.boxlinetwo
+{
+	right: -35px;
+}
+}
+
+
+
+
+@media (max-width: 767px)
+{
+.master_class_lp_content
+{
+	padding: 20px 0px;
+	text-align: center;
+}
+.form-line,.boxline,.boxlineone,.boxlinetwo,.yellowline,.yellowlinetwo
+{
+	display: none;
+}
+.box_top>img {
+    width: 90px;
+}
+.box_top
+{
+	left: -60px;
+}
+.master_class_lp_content p,.master_person_details p
+{
+	font-size: 16px;
+}
+.master_person_details
+{
+	padding: 15px 0px;
+}
+.master_person_details img
+{
+	margin: 10px auto;
+	display: block;
+}
+.master_quali_details p
+{
+	font-size: 14px;
+	padding: 10px 0px;
+}
+.date_details ul li:after
+{
+	display: none;
+}
+.date_details ul
+{
+	margin: 20px 0px 0px 0px;
+}
+.masterclass_form_section p
+{
+	text-align: center;
+}
+.masterclass_form_section
+{
+	margin: 10px 0px;
+}
+.master_line_one {
+    position: absolute;
+    bottom: auto;
+    left: auto;
+    top: 80px;
+    right: 0px;
+}
+.master_line_one>img {
+    width: 50px;
+}
+.master_class_lp_content h1
+{
+	font-size: 25px;
+}
+.master_person_details h2
+{
+	font-size: 18px;
+}
+.master_person_details h4
+{
+	font-size: 16px;
+}
+.master_class_list li
+{
+	width: 49%;
+	padding: 10px 10px;
+}
+.register_points
+{
+	padding: 0px;
+}
+.register_points ul li p
+{
+	width: 100%;
+}
+.girl_banner_img img {
+    max-width: 90%;
+    margin: 10px auto 0px auto;
+}
+.master_upcoming
+{
+	width: 100%;
+}
+.master_upcoming button.btn.btnsubmit.fill
+{
+	width: 100%;
+	margin: 10px auto;
+}
+section.master_class_banner_one
+{
+	background: linear-gradient(to bottom,#f4f4f4,#fff)
+}
+.applynow.masterclass
+{
+	right: 0px;
+	left: 0px;
+	width: 100%;
+}
+}

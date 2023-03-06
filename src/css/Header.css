@@ -1,0 +1,36 @@
+.xyz {
+
+    font-family: 'Lobster', cursive;
+    font-size: 70px;
+}
+
+.Header .abc .xyz {
+    font-size: 72px;
+    margin-top: 25px;
+    background: -webkit-linear-gradient(left, rgba(211, 182, 40, 1) 0%, rgba(207, 2, 101, 1) 25%, rgba(163, 34, 126, 1) 50%, rgba(52, 116, 189, 1) 75%, rgba(22, 207, 164, 1) 100%) !important;
+    color: whitesmoke;
+}
+
+.justify-content-center{
+    background-color: rgb(246, 239, 239);
+}
+
+.abc img {
+    margin-left: 150px;
+}
+
+a {
+    color: black !important;
+    font-size: 20px;
+}
+
+#dropdownMenuLink {
+    height: 30px;
+    width: 50px;
+    font-size: 20px;
+}
+
+.navbardiv .nav-item .nav-link:hover{
+
+    transform: scale(1.1);
+}

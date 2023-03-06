@@ -1,0 +1,41 @@
+.fontT{
+    /* textAlign:"left", paddingLeft:"75px", fontSize:"15px" */
+    text-align: left;
+    font-size: 15px !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fontZ{
+    text-align: center;
+    font-size: 15px !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-default, .btn-danger{
+    width: 90px;
+}
+.btn-default{
+    background-color: green;
+}
+
+.btn-danger{
+    border: solid black 2px;
+}
+
+.fontI{
+   font-size: 18px !important; 
+}
+
+.fontD{
+    font-size: 15px !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.clrB{
+    background-color: gray !important;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fontE{
+     font-size: 13px;
+}

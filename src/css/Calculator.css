@@ -1,0 +1,17 @@
+.input__question {
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+
+h2 {
+    font-family: sans-serif;
+}
+.background{
+
+    background-color: hsl(0, 0%, 96%);
+
+}
+h5{
+    color: hsl(217, 10%, 50.8%);
+}
